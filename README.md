@@ -24,7 +24,7 @@ Realice este curso para Lógica de Programación y:
 
 
 <p align="center" >
-     <img width="600" heigth="400" src="portada.png">   
+     <img width="800" heigth="600" src="portada.png">   
 </p>
 
 <br />
