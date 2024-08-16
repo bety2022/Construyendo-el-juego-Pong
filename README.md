@@ -6,16 +6,16 @@
  
 👩‍💻 💻 Desarrollo del proyecto  Juego Pong: "Realizado con ChatGPT y JavaScript. "   
 
-Realice este curso para Lógica de Programación y: 
-* Conozca ChatGPT.
+Realice este curso para Lógica de Programación: 
+* Conocer ChatGPT.
 * Comprender cómo utilizar la herramienta de inteligencia artificial como herramienta de apoyo a los estudios.
-* utilizamos nuestro proyecto, la aplicación SpaceApp, y consumimos una API, la API de la NASA.
 * Cree un proyecto utilizando la herramienta p5.js. 
-* Aprenda a crear mensajes asertivos para generar respuestas adaptadas a sus necesidades.
-* Aplique Texto a voz a su proyecto para narrar la puntuación del partido.
-* Este curso da la base para una persona desarrolladora que necesitará, a lo largo de su vida profesional, hacer estas solicitudes con ChatGPT lo que le permitira ampliar sus conocimientos por medio de esta IA.
+* Aprendi a crear mensajes asertivos para generar respuestas adaptadas a mis necesidades.
+* Aplique Texto a voz a el proyecto para narrar la puntuación del partido.
+* La combinación de p5.js y ChatGPT nos brinda un conjunto de herramientas poderosas para crear experiencias interactivas que combinan sonido y texto de manera innovadora.
+* Este curso da la base para una persona desarrolladora que necesitará a lo largo de su vida profesional, hacer estas solicitudes con ChatGPT lo que le permitira ampliar sus conocimientos por medio de esta IA.
 
-
+ 
 <p align="center" >
      <img width="400" heigth="200" src="ChatGPT3.png">
      
