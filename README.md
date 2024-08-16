@@ -18,13 +18,13 @@ Realice este curso para Lógica de Programación y:
 
 
 <p align="center" >
-     <img width="400" heigth="200" src="assets/LogoSpaceApp.png">
+     <img width="400" heigth="200" src="ChatGPT3.png">
      
 </p>
 
 
 <p align="center" >
-     <img width="600" heigth="400" src="assets/BannerSpaceApp.png">   
+     <img width="600" heigth="400" src="portada.png">   
 </p>
 
 <br />
