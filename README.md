@@ -2,8 +2,7 @@
 
 <h1 align="center"> Front End G6 - ONE </h1>
  
-# Curso de ChatGPT y JavaScript: 
-# Construyendo el Juego Pong
+# Curso de ChatGPT y JavaScript:Construyendo el Juego Pong
  
 
 👩‍💻 💻 Desarrollo del proyecto  Juego Pong: "Realizado con ChatGPT y JavaScript. "   
