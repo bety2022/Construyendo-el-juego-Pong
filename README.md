@@ -24,7 +24,7 @@ Realice este curso para Lógica de Programación y:
 
 
 <p align="center" >
-     <img width="800" heigth="600" src="portada.png">   
+     <img width="1000" heigth="800" src="portada.png">   
 </p>
 
 <br />
@@ -34,26 +34,27 @@ Realice este curso para Lógica de Programación y:
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="https://bety2022.github.io/SpaceApp/" >
-      🔗 Visitar la Plataforma de SpaceApp
+    <a href="https://editor.p5js.org/bety2022/full/RrKL7QFlr" >
+      🔗 Visitar el Juego Pong
     </a>
 </div>
 <br />
 
 ## 🛠️ Herramientas implementadas 
+  - ChatGPT
+  - p5.js
   - API
-  - DOM
-  - Layouts
-  - Flexbox
-  - CSS
   - HTML
+  - Sprites
+  - Prompts
   - JavaScript
+  - Herramienta Text to Speech
   - Git || GitHub || GitHub Pages
 
 
 <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flexbox,layouts,css,html,js,git,github,figma,api" />
+      <img src="https://skillicons.dev/icons?i=p5.js,ChatGPT,css,html,js,git,github,api" />
     </a>
 </div>
 <br />
