@@ -18,7 +18,7 @@ Realice este curso para Lógica de Programación y:
 
 
 <p align="center" >
-     <img width="400" heigth="200" src="ChatGPT1.png">
+     <img width="400" heigth="200" src="ChatGPT3.png">
      
 </p>
 
