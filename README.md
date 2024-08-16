@@ -1,4 +1,4 @@
-<h1 align="center"> Construyendo el Juego Pong </h1>
+<h1 align="center"> Construyendo El Juego Pong </h1>
 
 <h1 align="center"> Front End G6 - ONE </h1>
 
